@@ -20,7 +20,7 @@ Tecnologías que usaremos para la realización de este repositorio:
 |Express | https://expressjs.com/es/ | Express es un framework de aplicaciones web Node.js|
 |MongoDB | https://www.mongodb.com/es | Base de datos distribuida, basada en documentos y de uso general|
 
-### SCRUM [^1]
+### SCRUM[^1]
 Para la gestión del proyecto nos basaremos en metodología SCRUM.
 Esta metodología está enfocada a la gestión de equipos de desarrollo para proyectos software. Como los proyectos son meramente personales, la metología SCRUM no será usada de manera ___pura___ y realizaremos una serie de modificaciones para este proyecto.
 
