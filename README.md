@@ -19,3 +19,5 @@ Tecnologías que usaremos para la realización de este repositorio:
 |Node.js | https://nodejs.org/ | Tecnología backend para aplicaciones distribuidas|
 |Express | https://expressjs.com/es/ | Express es un framework de aplicaciones web Node.js|
 |MongoDB | https://www.mongodb.com/es | Base de datos distribuida, basada en documentos y de uso general|
+| Travis CI | https://travis-ci.com/  | Servicio de integración continua alojado que se utiliza para construir y probar proyectos de software alojados en GitHub|
+| SonarCloud | https://sonarcloud.io/ | Plataforma de análisis de código continuo y online con la que puedes analizar tus proyectos y ver los resultados online en la nube.|
