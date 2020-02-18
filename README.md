@@ -10,6 +10,7 @@ Concebido como un entorno de ejecución de JavaScript orientado a eventos asínc
 
 Tecnologías que usaremos para la realización de este repositorio:
 Nombre | URL | Descripción
+-- | -- | --
 Git | https://git-scm.com/ |Tecnología para el control de versiones
 GitHub | https://github.com/ | Hosting donde alojar el código escrito
 VisualStudio Code | https://code.visualstudio.com/ | Editor de código
