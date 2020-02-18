@@ -38,7 +38,8 @@ Usaremos travis para la integración continua, rápida y automatizada de nuestro
 
 #### Tablero SCRUM
 Usaremos Trello, para como tablero SCRUM y poder escribir ahí las historias de usuario.
-
+|Nombre | URL | Descripción|
+|-- | -- | -- |
 | Travis CI | https://travis-ci.com/  | Servicio de integración continua alojado que se utiliza para construir y probar proyectos de software alojados en GitHub|
 | SonarCloud | https://sonarcloud.io/ | Plataforma de análisis de código continuo y online con la que puedes analizar tus proyectos y ver los resultados online en la nube.|
 |Trello|https://trello.com/es|Las tarjetas, listas y tableros de Trello permiten organizar y priorizar proyectos.|
